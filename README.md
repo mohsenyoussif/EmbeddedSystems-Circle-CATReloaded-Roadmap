@@ -120,7 +120,7 @@ Courses:
 ### **Important notes**
    - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
    - You can also check 
-      -  [AVR MAZIDI Book]((https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing) starting from chapter 7.
+      -  [AVR MAZIDI Book](https://drive.google.com/file/d/1cs9Ege67z89aa7BaEmdAnm4dOVoHqiid/view?usp=sharing) starting from chapter 7.
       - [An Embedded Software Primer](https://drive.google.com/file/d/1BCddCZ_LizPQoFMy7FRS3AHiuXbTTqaO/view?usp=sharing) (Chapters 1-4, 9, 10).
 
 ---
