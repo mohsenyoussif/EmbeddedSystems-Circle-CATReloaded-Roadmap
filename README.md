@@ -66,7 +66,7 @@ Courses:
 You can learn about them from these resources:
 - [Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=7346s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)   
       [The most common commands in git.](https://docs.google.com/document/d/e/2PACX-1vRsH5CE2ty2BzWys6bsTfJ8sYDrNg0yBy8rrVU2jWhr3QbJ1YHdXgPwZbAuf04hz-YSrjIbBkjIPABx/pub)
-- [Pro Git](https://b-ok.africa/book/2885145/8f03fc)
+- [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
 
 
                                    Then, a large-scale project covering all studied topics.
@@ -145,7 +145,7 @@ Courses:
  [C Programming: A Modern Approach by K N King](https://drive.google.com/file/d/18pLjNvcf7OJhg01fVJITXdvKFAuemAuF/view?fbclid=IwAR0z59u7lvfRmpgWF45GDmn38kVd0uNycTvE511CuYRbMVq1Jv72rc7wYIg)
  
  - [Understanding and Using C Pointers: Core Techniques for Memory Management by Richard M. Reese](https://b-ok.africa/book/2074711/cf387f)
- - [Pro Git](https://b-ok.africa/book/2885145/8f03fc)
+ - [Pro Git](https://drive.google.com/file/d/13h9CWcrnBwbLKcRTr4-ypcy0rawzbvYY/view?usp=sharing)
  - [Data Structure and Program Design in C](https://drive.google.com/file/d/1b_Aro-jMLiIe9IUqE8FgcCVsTeoabksd/view?fbclid=IwAR0lJVT1HUcrlaIm0Dw7lPcssqzuI5rnO4oC4F9yg83ycO0SVtp5h7hmLd4) 
  
  - [Grokking Algorithms](https://b-ok.africa/book/2779892/2466e4)
