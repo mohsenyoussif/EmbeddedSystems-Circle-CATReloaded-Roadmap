@@ -111,7 +111,7 @@ We will learn about `Processor Internal Structure`
  `(OS  vs  Bare Metal, Van Neumann vs Harvard, CISC vs RISC)` 
  `MCU Clocks(Clock Source)`.
 ###  MCU interfacing 
-Here, we will learn about `DIO` `Interuppt` `ADC` `Timers` `Communication Protocols`
+Here, we will learn about `DIO` `Interrupt` `ADC` `Timers` `Communication Protocols`
 
 Courses:
 - NTI Course 
