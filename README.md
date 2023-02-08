@@ -114,8 +114,9 @@ We will learn about `Processor Internal Structure`
 Here, we will learn about `DIO` `Interrupt` `ADC` `Timers` `Communication Protocols`
 
 Courses:
+- [Building process in C](https://youtube.com/playlist?list=PLEPINOrvANGdilPO9q6TymvxN9f-_tGRh) 
+- Mico-Controller Archticture 
 - NTI Course 
-- [FWD Professional Track](https://drive.google.com/drive/folders/1SFIBO8L_GFmiQP05eJwqVdHQtCnH9E4a)
 - [AVR - YouTube Course](https://www.youtube.com/watch?v=jQGnEbZjUxw&list=PLa4kqtM7SuFzUJmqhUBi9GBNBFu8Frjvb&ab_channel=ArafaMicrosys)
 ### **Important notes**
    - The main reference during this stage should  be from [DataSheets](https://drive.google.com/drive/folders/11zNGV-v-26h14kpLQ8JbMDoSIS0cgp7x).
